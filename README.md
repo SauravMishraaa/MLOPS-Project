@@ -1,6 +1,5 @@
 # MLOPS Project
 
-![Project Logo](insert_image_link_here)
 
 ## Overview
 
@@ -58,4 +57,5 @@ If you prefer to run your experiments in Google Colab, access the ZenML dashboar
 
     # For Google Colab
     # Make sure to run the provided Colab integration code in your Colab notebook
+    https://038d-34-81-222-230.ngrok-free.app
     ```
