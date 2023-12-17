@@ -17,7 +17,8 @@ If you prefer to run your experiments in Google Colab, access the ZenML dashboar
 
 [Colab Dashboard](https://038d-34-81-222-230.ngrok-free.app)
 
-![ZENML Dashboard](insert_image_link_here)
+![ZENML Dashboard](![image](https://github.com/SauravMishraaa/MLOPS-Project/assets/98693380/e1f70319-4d6e-4bb1-8110-168e162b72f4)
+)
 
 ## Getting Started
 
